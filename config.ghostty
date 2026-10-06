@@ -1,0 +1,4 @@
+# Disable font ligatures (!=, =>, etc.)
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
